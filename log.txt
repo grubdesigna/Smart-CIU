@@ -1,0 +1,66 @@
+
+
+11112222333344556677
+[1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7]
+(1, '\n')
+ONE
+Good bye!
+(1, '\n')
+ONE
+Good bye!
+(1, '\n')
+ONE
+Good bye!
+(1, '\n')
+ONE
+Good bye!
+(2, '\n')
+TWO
+Good bye!
+(2, '\n')
+TWO
+Good bye!
+(2, '\n')
+TWO
+Good bye!
+(2, '\n')
+TWO
+Good bye!
+(3, '\n')
+THREE
+Good bye!
+(3, '\n')
+THREE
+Good bye!
+(3, '\n')
+THREE
+Good bye!
+(3, '\n')
+THREE
+Good bye!
+(4, '\n')
+FOUR
+Good bye!
+(4, '\n')
+FOUR
+Good bye!
+(5, '\n')
+FIVE
+Good bye!
+(5, '\n')
+FIVE
+Good bye!
+(6, '\n')
+SIX
+Good bye!
+(6, '\n')
+SIX
+Good bye!
+(7, '\n')
+SEVEN
+Good bye!
+(7, '\n')
+SEVEN
+Good bye!
+ENTERING DATA ...
+Done!
